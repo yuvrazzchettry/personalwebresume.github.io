@@ -90,7 +90,7 @@ body {
   color: white;
   overflow: hidden;
   position: absolute;
-  transform: translate(-50%,-50%);
+  transform: translate(-100%,-50%);
   top: 95%;
   left: 50%;
   text-align: center;
@@ -98,7 +98,7 @@ body {
 .txt-slide{
   display: flex;
   position: relative;
-  top: 400px;
+  top: 0;
   right: 0;
   animation: txt-sliding linear 10s infinite;
   
