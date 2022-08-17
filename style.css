@@ -98,7 +98,7 @@ body {
 .txt-slide{
   display: flex;
   position: relative;
-  top: 0;
+  top: 400px;
   right: 0;
   animation: txt-sliding linear 10s infinite;
   
