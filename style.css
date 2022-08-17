@@ -89,10 +89,9 @@ body {
 .container{
   color: white;
   overflow: hidden;
-  position: absolute;
-  transform: translate(-50%,-50%);
-  top: -95%;
-  left: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
 }
 .txt-slide{
