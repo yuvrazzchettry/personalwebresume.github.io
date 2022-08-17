@@ -90,8 +90,8 @@ body {
   color: white;
   overflow: hidden;
   position: absolute;
-  transform: translate(-100%,-50%);
-  top: 95%;
+  transform: translate(100%,-50%);
+  top: -95%;
   left: 50%;
   text-align: center;
 }
